@@ -7,11 +7,6 @@ Passionate about architecting enterprise AI gateways, RAG retrieval pipelines, a
 
 ### 🚀 Flagship Systems & Live Deployments
 
-- 🛡️ **[AI Firewall & LLM Gateway](https://github.com/Anoop-Hampannavar/ai-firewall)**
-  - *Tech*: Python, Flask, Groq API (Llama 3.3), Docker, Kafka telemetry
-  - *Highlights*: Dynamic model discovery, automated fallback to heuristic safety filters, real-time prompt injection detection.
-  - 🔗 **[[Live Demo](https://ai-firewall-3jsz.onrender.com/summarizer)]**
-
 - 🔍 **[Aegis-RAG](https://github.com/Anoop-Hampannavar/aegis-rag)**
   - *Tech*: Next.js 14, TypeScript, Python FastAPI, Vector Embeddings, Docker Compose
   - *Highlights*: Monorepo architecture, automated CI/CD pipelines, strongly typed TypeScript client SDK.
@@ -26,6 +21,11 @@ Passionate about architecting enterprise AI gateways, RAG retrieval pipelines, a
   - *Tech*: Next.js App Router, Tailwind CSS, TypeScript, Docker
   - *Highlights*: Official multi-day fest digital hub tracking event itineraries and committee coordination.
   - 🔗 **[[[Live Demo](https://sambhrama-web.vercel.app/)]**
+
+- 🛡️ **[AI Firewall & LLM Gateway](https://github.com/Anoop-Hampannavar/ai-firewall)**
+  - *Tech*: Python, Flask, Groq API (Llama 3.3), Docker, Kafka telemetry
+  - *Highlights*: Dynamic model discovery, automated fallback to heuristic safety filters, real-time prompt injection detection.
+  - 🔗 **[[Live Demo](https://ai-firewall-3jsz.onrender.com/summarizer)]**
 ---
 
 ### 🛠️ Core Technical Arsenal
